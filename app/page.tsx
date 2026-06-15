@@ -12,7 +12,7 @@ export default function Home() {
           <p><strong>App:</strong> DualFrame</p>
           <p><strong>Category:</strong> Video Recording App</p>
           <p><strong>Description:</strong> DualFrame is a mobile app for recording videos in dual-frame layouts.</p>
-          <p><strong>Contact:</strong> sunhee1116@gmail.com </p>
+          <p><strong>Contact:</strong> dualframe.support@gmail.com </p>
         </div>
 
         <div className="mt-10">
