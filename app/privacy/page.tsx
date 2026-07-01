@@ -22,7 +22,7 @@ export default function PrivacyPage() {
         </p>
 
         <p className="mb-4">
-          If you have any questions, please contact us at: sunhee1116@gmail.com
+          If you have any questions, please contact us at: dualframe.support@gmail.com
         </p>
 
         <p className="mt-8 text-sm">
